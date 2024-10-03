@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdou Aziz Daback Ba</h1>
-<h3 align="center">A Computer web Student At Epitech Rennes</h3>
+<h3 align="center">A Computer Science Student At Epitech Rennes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aking221&label=Profile%20views&color=0e75b6&style=flat" alt="aking221" /> </p>
 
