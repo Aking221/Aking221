@@ -19,6 +19,16 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aking221&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **various school projects and personal coding challenges**
@@ -64,19 +74,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aking221&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aking221&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aking221&theme=dark" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aking221&layout=compact&theme=dark" alt="Most Used Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aking221&theme=dark" alt="Commit Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
