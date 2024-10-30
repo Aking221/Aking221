@@ -41,7 +41,8 @@
 ### 🚀 Featured Projects
 
 - **Job Board Project**: A web application for job postings and applications, built with Node.js, React, and MySQL (not yet available online).
-- **Portfolio Website**: A personal website that showcases my skills, built using HTML, CSS, and JavaScript. *(Link coming soon)*
+- **Portfolio Website**: A personal website that showcases my skills, built using HTML, CSS, and JavaScript. *[Visit here](https://aking221.github.io/)*
+
 
 ---
 
