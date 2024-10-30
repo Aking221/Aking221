@@ -38,6 +38,26 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- **Job Board Project**: A web application for job postings and applications, built with Node.js, React, and MySQL (not yet available online).
+- **Portfolio Website**: A personal website that showcases my skills, built using HTML, CSS, and JavaScript. *(Link coming soon)*
+
+---
+
+### 📚 Currently Learning
+
+- Exploring **Machine Learning with Python** to broaden my understanding of data science concepts.
+- Gaining proficiency in **React** to develop interactive, responsive front-end applications.
+
+---
+
+### 🌟 Motto
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+---
+
 ### 🚀 Skills & Technologies
 
 #### Programming Languages
@@ -89,13 +109,14 @@
 
 ---
 
-### 📈 GitHub Activity
+### 📈 GitHub Contributions Overview
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aking221&bg_color=1a1a1a&color=57c7d4&line=9a9a9a&point=c5f015&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aking221&theme=react-dark&bg_color=1a1a1a&color=57c7d4&line=9a9a9a&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
+
 
 ---
 
