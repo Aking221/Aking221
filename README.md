@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/kingba221" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kingba221?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
   <a href="https://linkedin.com/in/abdou-aziz-ba-104041190" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -123,7 +120,6 @@
 
 ### 📬 Get in Touch
 
-- **Twitter**: [@kingba221](https://twitter.com/kingba221)
 - **LinkedIn**: [Abdou Aziz Daback Ba](https://linkedin.com/in/abdou-aziz-ba-104041190)
 - **Email**: [abdou-aziz-daback.ba@epitech.eu](mailto:abdou-aziz-daback.ba@epitech.eu)
 
