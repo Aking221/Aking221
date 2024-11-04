@@ -131,3 +131,6 @@ When I’m not coding, I’m leveling up in gaming, and often find myself applyi
 ---
 
 Thank you for visiting my profile! Let’s connect and create something awesome together 🚀
+
+---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312ad42wfsrdmsu62imn7td2ckiq&cover_image=true&theme=default&show_offline=false&background_color=171717&interchange=false&bar_color_cover=true&bar_color=eaede9)](https://github.com/kittinan/spotify-github-profile)
